@@ -1,5 +1,7 @@
 # FPM image to build RPM packages
 
+This is a docker image for https://github.com/jordansissel/fpm
+
 ## Usage
 
 Build image
